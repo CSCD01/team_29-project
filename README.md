@@ -1,6 +1,8 @@
-#Team 29: Hello, World!
+# Team 29: Hello, World!
 
 Repository:
-	*deliverable/
-		*deliverable0.pdf
-	*code/
+
+    * deliverable/
+        * deliverable0.pdf
+    * code/
+
