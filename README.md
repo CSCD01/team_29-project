@@ -4,7 +4,7 @@ Repository:
 
     * deliverable/
 		* d0/
-        	* deliverable0.pdf
+        		* deliverable0.pdf
 			* d0_handout.pdf
 		* d1/
 			* deliverable1.pdf
