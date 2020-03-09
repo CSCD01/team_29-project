@@ -6,6 +6,12 @@ Deliverables:
 	* [deliverable0.pdf](deliverable0/deliverable0.pdf)
 * deliverable1/
 	* [deliverable1.pdf](deliverable1/deliverable1.pdf)
+* deliverable2/
+	* [deliverable2.pdf](deliverable2/deliverable2.pdf)
 
 Code:
 * [https://github.com/thasitathan/gecko-dev](https://github.com/thasitathan/gecko-dev)
+
+Bug Fixes:
+* [bug-1531370](https://bugzilla.mozilla.org/show_bug.cgi?id=1531370)
+* [bug-1554887](https://bugzilla.mozilla.org/show_bug.cgi?id=1554887)
