@@ -5,6 +5,7 @@ Deliverables:
 * [deliverable1.pdf](deliverable1/deliverable1.pdf)
 * [deliverable2.pdf](deliverable2/deliverable2.pdf)
 * [deliverable3.pdf](deliverable3/deliverable3.pdf)
+* [deliverable4.pdf](deliverable4/deliverable4.pdf)
 
 Code:
 * [https://github.com/thasitathan/gecko-dev](https://github.com/thasitathan/gecko-dev)
