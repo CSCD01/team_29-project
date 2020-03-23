@@ -1,0 +1,9 @@
+team_29 Deliverable 1 and Interview Marks
+
+Report: 36/40
+  -Overall Architecture: 15/15
+  -Software Process: 14/15
+  -Presentation and Quality of Writing: 10/10
+Comments: Analysis of kanban is not complete, did not list any cons/explain why it was not a good choice.
+
+Interview: 10/10
