@@ -1,15 +1,10 @@
 # Team 29: GoodbyeWorld!
 
 Deliverables:
-
-* deliverable0/
-	* [deliverable0.pdf](deliverable0/deliverable0.pdf)
-* deliverable1/
-	* [deliverable1.pdf](deliverable1/deliverable1.pdf)
-* deliverable2/
-	* [deliverable2.pdf](deliverable2/deliverable2.pdf)
-* deliverable3/
-	* [deliverable3.pdf](deliverable3/deliverable3.pdf)
+* [deliverable0.pdf](deliverable0/deliverable0.pdf)
+* [deliverable1.pdf](deliverable1/deliverable1.pdf)
+* [deliverable2.pdf](deliverable2/deliverable2.pdf)
+* [deliverable3.pdf](deliverable3/deliverable3.pdf)
 
 Code:
 * [https://github.com/thasitathan/gecko-dev](https://github.com/thasitathan/gecko-dev)
