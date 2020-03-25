@@ -1,6 +1,6 @@
 team_29 Deliverable 1 and Interview Marks
 
-Report: 36/40
+Report: 39/40
   -Overall Architecture: 15/15
   -Software Process: 14/15
   -Presentation and Quality of Writing: 10/10
