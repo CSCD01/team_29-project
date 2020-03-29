@@ -1,0 +1,13 @@
+team_29 Deliverable 2 and Interview Marks
+
+Report: 98/100
+  -Explanation of Issues: 10/10
+  -Reasoning for chosen Issues: 5/5
+  -Correctness: 25/25
+  -Quality and Documentation: 10/10
+  -Testing: 10/10
+  -Software Process: 25/25
+  -Presentation and Quality of Writing: 13/15
+Comments: Could've used hyperlinks better to hide long and ugly looking URLs. Would be easier on the eyes with paragraphs in some sections to split up the different bugs instead of underlining.
+
+Interview: 10/10
