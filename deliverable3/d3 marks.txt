@@ -1,0 +1,11 @@
+team_29 Deliverable 3 and Interview Marks
+
+Report: 42/45
+  -Explanation of Issues: 10/10
+  -Reasoning and Planning for chosen Issue: 10/10
+  -Testing: 5/5
+  -Architecture: 8/10
+  -Presentation and Quality of Writing: 10/10
+Comments: Architecture analysis did not discuss the level of coupling between components and the cohesion of components
+
+Interview: 10/10
