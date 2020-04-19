@@ -1,0 +1,13 @@
+team_29 Deliverable 4 and Interview Marks
+
+Report:                                106/120
+  -Implementation:                      38/40
+  -Testing:                             20/20
+  -User Guide(s):                       10/10
+  -Design Document:                     10/10
+  -Process:                             18/20
+  -Presentation and Quality of Writing: 10/10
+  -Amount of work done compared with other teams: **To be graded by Anya** /10
+Comments: Should not be commiting code directly to master so often. Debugging/placeholder messages (such as "here" or "IT WORKED") should not be commited to the master branch. Pull requests should have a description.
+
+Interview: 10/10
